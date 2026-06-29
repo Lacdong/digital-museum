@@ -14,13 +14,23 @@
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng (Tech Stack)
+##  Công Nghệ Sử Dụng (Tech Stack)
 
 * **Frontend Library:** React.js (Cấu trúc hooks: `useState`, `useMemo`, `useCallback`, `useRef`, `useEffect`).
 * **Build Tool:** Vite (Cơ chế quét module siêu tốc).
 * **Styling:** Tailwind CSS (Tích hợp Glassmorphism mờ kính, hiệu ứng phát quang Neon và Text Gradient).
 * **Vector Icons:** Lucide React (Đồng bộ 100% icon phẳng vector cao cấp).
 * **PDF Compiler:** `jsPDF` kết hợp `html2canvas`.
+
+---
+
+### Cài Đặt Thư Viện 
+* npm install
+
+---
+
+### Khởi Chạy 
+* npm run dev
 
 ---
 
@@ -59,3 +69,5 @@ digital-museum/
 ├── package.json                 # Quản lý các gói thư viện cài đặt (Dependencies)
 ├── tailwind.config.js           # Tùy biến cấu hình theme Tailwind
 └── vite.config.js               # Cấu hình máy chủ phát triển Vite
+
+
