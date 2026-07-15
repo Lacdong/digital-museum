@@ -1,14 +1,14 @@
 // Danh sách 9 gói thử thách hiển thị trên giao diện Dashboard
 export const challengesData = [
-  { id: "test-1", title: "Hành trình tìm đường cứu nước (1911-1930)", xp: 500, level: "Dễ", isLocked: false, img: "https://images.unsplash.com/photo-1599733589046-10c005739ef9?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-2", title: "Thành lập Đảng & Cao trào Cách mạng (1930-1945)", xp: 500, level: "Dễ", isLocked: false, img: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-3", title: "Kháng chiến toàn quốc & Điện Biên Phủ (1945-1954)", xp: 500, level: "Trung bình", isLocked: false, img: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-4", title: "Xây dựng XHCN miền Bắc & Kháng chiến chống Mỹ (1954-1975)", xp: 500, level: "Khó", isLocked: true, img: "https://images.unsplash.com/photo-1533240332313-0db49b459ad6?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-5", title: "Đại thắng mùa Xuân 1975 & Thống nhất đất nước", xp: 500, level: "Khó", isLocked: true, img: "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-6", title: "Khủng hoảng kinh tế & Bước ngoặt Đổi mới (1975-1986)", xp: 500, level: "Trung bình", isLocked: false, img: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-7", title: "Hội nhập quốc tế & Phát triển kinh tế (1986-2000)", xp: 500, level: "Trung bình", isLocked: false, img: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-8", title: "Chân dung các Lãnh tụ & Tổng Bí thư của Đảng", xp: 500, level: "Khó", isLocked: true, img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80" },
-  { id: "test-9", title: "Các kỳ Đại hội Đảng & Văn kiện lịch sử cốt lõi", xp: 500, level: "Khó", isLocked: true, img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80" }
+  { id: "test-1", title: "Hành trình tìm đường cứu nước (1911-1930)", xp: 500, level: "Dễ", isLocked: false, img: "https://i.pinimg.com/736x/7a/84/6f/7a846fcde31b627f6e853664c3a10410.jpg" },
+  { id: "test-2", title: "Thành lập Đảng & Cao trào Cách mạng (1930-1945)", xp: 500, level: "Dễ", isLocked: false, img: "https://i.pinimg.com/736x/90/6b/3f/906b3f5ab5e0c0942ee7751980f50344.jpg" },
+  { id: "test-3", title: "Kháng chiến toàn quốc & Điện Biên Phủ (1945-1954)", xp: 500, level: "Trung bình", isLocked: false, img: "https://i.pinimg.com/736x/76/a7/23/76a72392d50880296f1f27f9cb0d4095.jpg" },
+  { id: "test-4", title: "Xây dựng XHCN miền Bắc & Kháng chiến chống Mỹ (1954-1975)", xp: 500, level: "Khó", isLocked: true, img: "https://i.pinimg.com/736x/89/90/b9/8990b9412c598f66d4ed9c11999eec33.jpg" },
+  { id: "test-5", title: "Đại thắng mùa Xuân 1975 & Thống nhất đất nước", xp: 500, level: "Khó", isLocked: true, img: "https://i.pinimg.com/1200x/fd/d6/00/fdd600064b8a54d811ab5778fd9d6325.jpg" },
+  { id: "test-6", title: "Khủng hoảng kinh tế & Bước ngoặt Đổi mới (1975-1986)", xp: 500, level: "Trung bình", isLocked: false, img: "https://i.pinimg.com/736x/f2/5e/17/f25e1791476202c66cb12cf9342f84b0.jpg" },
+  { id: "test-7", title: "Hội nhập quốc tế & Phát triển kinh tế (1986-2000)", xp: 500, level: "Trung bình", isLocked: false, img: "https://i.pinimg.com/736x/88/43/9b/88439b66fa964282f1b1cbd31ffbe4e1.jpg" },
+  { id: "test-8", title: "Chân dung các Lãnh tụ & Tổng Bí thư của Đảng", xp: 500, level: "Khó", isLocked: true, img: "https://i.pinimg.com/736x/de/e5/92/dee59274c6bce27e56d5d4ead267066f.jpg" },
+  { id: "test-9", title: "Các kỳ Đại hội Đảng & Văn kiện lịch sử cốt lõi", xp: 500, level: "Khó", isLocked: true, img: "https://i.pinimg.com/736x/75/47/8b/75478bb0bdd92bb5e66692b2dbb444f5.jpg" }
 ];
 
 // Ngân hàng câu hỏi chi tiết: 9 bài kiểm tra x 10 câu = 90 câu hỏi

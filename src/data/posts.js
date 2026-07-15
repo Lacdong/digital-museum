@@ -56,5 +56,65 @@ export const genZPosts = [
     comments: [
       { id: 1, name: "Bảo An", time: "30 phút trước", text: "Nghe ông bà kể thời tem phiếu khổ thật sự, trân trọng thế hệ đi trước đã dám đổi mới để có hôm nay." }
     ]
+  },
+  {
+    id: "post-4",
+    cardTitle: "Nếu ba tổ chức cộng sản năm 1929 là các startup công nghệ độc lập, cú 'M&A' năm 1930 đã scale up hệ thống thế nào?",
+    title: "Hội Nghị Hương Cảng 1930: Cú 'Merge' Lịch Sử Giải Quyết Triệt Để Tình Trạng Phân Mảnh Hệ Thống",
+    excerpt: "Khi các tổ chức cách mạng hoạt động riêng rẽ không khác gì mã nguồn bị phân mảnh (fragmented code), cần một 'Technical Lead' đủ tầm để thực hiện cú tích hợp tối cao.",
+    content: "Trước năm 1930, phong trào yêu nước Việt Nam cực kỳ nhiệt huyết nhưng lại thiếu tính đồng bộ, giống như ba startup chạy ba phiên bản source code khác nhau (Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn). Nhận thấy hệ thống đang bị quá tải và phân mảnh nghiêm trọng, 'Lead Dev' Nguyễn Ái Quốc đã triệu tập Hội nghị Hương Cảng để thực hiện một cú 'Merge' lịch sử, tạo ra một 'Repository' duy nhất: Đảng Cộng sản Việt Nam. Cú tích hợp này giúp thống nhất giao diện chỉ đạo, tối ưu hóa băng thông cách mạng và mở đường cho chuỗi nâng cấp vĩ đại sau này.",
+    author: "Phạm Minh Đức",
+    authorTitle: "Kỹ sư Phần mềm & Đam mê Lịch sử • 45 phút trước",
+    initialLikes: 1056,
+    initialBookmark: false,
+    infoTitle: "Sự phân mảnh trước 1930 và Thống nhất",
+    infoLabel1: "Tổ chức Cộng sản (1929)",
+    infoValue1: "3 Tổ chức biệt lập",
+    infoLabel2: "Hệ thống sau 'Merge' (1930)",
+    infoValue2: "1 Đảng duy nhất",
+    comments: [
+      { id: 1, name: "Thanh Hằng", time: "30 phút trước", text: "Giải thích đỉnh thực sự! Coi như Nguyễn Ái Quốc là vị CTO đời đầu kết nối các nhánh repo lại với nhau :v" },
+      { id: 2, name: "Quốc Khánh", time: "1 giờ trước", text: "Sự phân mảnh hệ thống mà không merge lại thì dễ bị 'bẻ gãy' từng phần. Bài viết siêu cuốn!" }
+    ]
+  },
+  {
+    id: "post-5",
+    cardTitle: "Nếu đường Trường Sơn là một mạng lưới Internet, làm sao 'Firewall' của đối phương không thể đánh sập?",
+    title: "Đường Mòn Hồ Chí Minh: Mạng Lưới 'Mesh Network' Kỳ Vĩ Vượt Qua Mọi Cuộc Tấn Công DDoS",
+    excerpt: "Một hệ thống phân phối thông minh không bao giờ dựa vào một huyết mạch độc đạo. Bí quyết nằm ở sự phân tán và khả năng tự phục hồi cực mạnh.",
+    content: "Đường Trường Sơn huyền thoại thực chất là một mạng lưới 'Mesh Network' (mạng lưới dạng lưới) cực kỳ bảo mật và có độ dự phòng (redundancy) cực cao. Với hàng nghìn ngả rẽ, tuyến đường nhánh và trạm trung chuyển xuyên rừng rậm, hệ thống vận tải này hoạt động trên nguyên tắc tự định tuyến (auto-routing). Khi không quân đối phương thực hiện 'DDoS' (ném bom đánh phá) vào một nút giao thông, lưu lượng 'data' (vũ khí, lương thực, chiến sĩ) ngay lập tức được chuyển hướng tự động qua các 'node' dự phòng khác. Đây chính là mạng lưới 'bất tử' khiến mọi thuật toán ngăn chặn cơ giới hiện đại nhất lúc bấy giờ của đối phương hoàn toàn bất lực.",
+    author: "Trịnh Khánh An",
+    authorTitle: "Chuyên viên Giải pháp Mạng • 2 giờ trước",
+    initialLikes: 1320,
+    initialBookmark: false,
+    infoTitle: "Thông số kỳ tích Đường Trường Sơn",
+    infoLabel1: "Tổng chiều dài mạng lưới",
+    infoValue1: "~20,000 km",
+    infoLabel2: "Lượng hàng vận chuyển",
+    infoValue2: "~1.5 Triệu Tấn",
+    comments: [
+      { id: 1, name: "Minh Quân", time: "1 giờ trước", text: "Đọc xong thấy tự hào về trí tuệ quân sự của cha ông ta quá. Đúng nghĩa là một mạng lưới phân tán tối tân!" },
+      { id: 2, name: "Phương Linh", time: "1 giờ trước", text: "Kiểu này thì không một firewall nào chặn nổi 'data' từ miền Bắc truyền vào miền Nam rồi!" }
+    ]
+  },
+  {
+    id: "post-6",
+    cardTitle: "Từ 'Khai hoang bờ cõi' đến 'Chủ quyền số', Gen Z đang viết tiếp trang sử mới thế nào?",
+    title: "Hành Trình Upgrade Quốc Gia Lên 'OS 5.0': Khi AI Và Chuyển Đổi Số Trở Thành Vũ Khí Bảo Vệ Chủ Quyền",
+    excerpt: "Thời đại mới, mặt trận mới. Lãnh thổ quốc gia giờ đây không chỉ nằm trên bản đồ địa lý mà còn mở rộng ra cả không gian số.",
+    content: "Nước Việt Nam từ thuở lập quốc đến nay đã trải qua biết bao cuộc chuyển mình vĩ đại. Nếu như các thế hệ trước đã dùng xương máu để giữ vững chủ quyền lãnh thổ vật lý, thì thế hệ trẻ hôm nay đang gánh vác sứ mệnh cắm mốc chủ quyền trên không gian số. Việc phát triển các mô hình ngôn ngữ lớn (LLM), AI Chatbot nội địa và tự chủ hạ tầng số chính là cách chúng ta xây dựng bức tường lửa (Firewall) bảo vệ bản sắc văn hóa và tri thức Việt Nam. Gen Z chính là những 'developer' đang ngày đêm debug, coding để tối ưu hóa và nâng cấp đất nước lên phiên bản hệ điều hành 'OS 5.0' hiện đại, phồn vinh và AI-native.",
+    author: "Lâm Kiến Quốc",
+    authorTitle: "Kỹ sư AI & Đại diện Thế hệ trẻ • 5 giờ trước",
+    initialLikes: 1540,
+    initialBookmark: false,
+    infoTitle: "Mục tiêu số hóa Việt Nam đến năm 2030",
+    infoLabel1: "Tỷ trọng Kinh tế số trong GDP",
+    infoValue1: "30%",
+    infoLabel2: "Xếp hạng Chính phủ số",
+    infoValue2: "Top 50 thế giới",
+    comments: [
+      { id: 1, name: "Tuấn Kiệt", time: "4 giờ trước", text: "Đúng vậy, làm chủ AI nội địa là cực kỳ quan trọng để không bị phụ thuộc công nghệ nước ngoài." },
+      { id: 2, name: "Hà My", time: "4 giờ trước", text: "Tự hào là một dev Gen Z đang góp phần xây dựng hệ điều hành quốc gia số :)" }
+    ]
   }
 ];

@@ -6,9 +6,12 @@ import { Heart, Bookmark, Share2, MessageSquare, Send, User } from 'lucide-react
 
 // Mảng ảnh nền fallback tương ứng cho 3 kịch bản What-If giống ảnh Visily
 const postImages = {
-  "post-1": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80", // Máy cơ khí cổ
-  "post-2": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?auto=format&fit=crop&w=600&q=80", // Đài phát thanh Vintage
-  "post-3": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=600&q=80"  // Đô thị hiện đại Đổi Mới
+  "post-1": "https://i.pinimg.com/vwebp/1200x/b8/38/08/b8380802a0a28e63829abd48edfbb6ab.webp", 
+  "post-2": "https://i.pinimg.com/1200x/ef/a0/33/efa033ed6259e1e74af7bc92f0e9a187.jpg", 
+  "post-3": "https://i.pinimg.com/736x/ff/e5/d2/ffe5d261275c5cb1c22ef6bc38eed0d0.jpg",
+  "post-4": "https://i.pinimg.com/1200x/3a/46/63/3a4663195bbe862a679b73219dc710fe.jpg",
+  "post-5": "https://i.pinimg.com/736x/f1/6c/e1/f16ce1268be437b436c1006bffd436c1.jpg", 
+  "post-6": "https://i.pinimg.com/736x/ae/ad/d1/aeadd10953ec0d40757e5ad9b40b5f82.jpg"
 };
 
 // Mảng thẻ tag hiển thị đè lên ảnh

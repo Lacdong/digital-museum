@@ -2,11 +2,11 @@ export const membersData = [
   {
     id: "SE185081",
     name: "Lê Hồ Lạc Đông",
-    role: "Lead Developer / Gen Z Core Team",
+    role: "Developer/UI Designer",
     contributionRate: 100,
     stats: [
       { label: "Lập trình (Code)", value: 90 },
-      { label: "Thiết kế (Design)", value: 75 },
+      { label: "Thiết kế (Design)", value: 90 },
       { label: "Nội dung lịch sử", value: 85 },
       { label: "Ý tưởng sáng tạo", value: 95 },
       { label: "Tương tác (Quiz/AI)", value: 80 }
@@ -16,16 +16,16 @@ export const membersData = [
       { id: 2, title: "Tích hợp mô hình ngôn ngữ lớn cho AI Chatbot Hỏi đáp", date: "20/06/2026", status: "Hoàn thành", type: "AI Integration", color: "text-purple-400 border-purple-500/30 bg-purple-500/10" },
       { id: 3, title: "Biên tập bộ câu hỏi Quiz thử thách lịch sử Đảng giai đoạn 1930-1945", date: "15/06/2026", status: "Hoàn thành", type: "Content", color: "text-yellow-500 border-yellow-500/30 bg-yellow-500/10" },
       { id: 4, title: "Thiết kế bộ UI Huy hiệu vinh danh (Hologram Badges) cho mục Quiz", date: "10/06/2026", status: "Hoàn thành", type: "Design", color: "text-pink-400 border-pink-500/30 bg-pink-500/10" },
-      { id: 5, title: "Tối ưu hóa hiệu năng hiệu ứng Sao rơi và lấp lánh hệ thống", date: "05/06/2026", status: "Đang rà soát", type: "Optimization", color: "text-gray-400 border-gray-700 bg-gray-800/40" },
+      { id: 5, title: "Tối ưu hóa hiệu năng hiệu ứng Sao rơi và lấp lánh hệ thống", date: "05/06/2026", status: "Hoàn thành", type: "Optimization", color: "text-gray-400 border-gray-700 bg-gray-800/40" },
     ]
   },
   {
     id: "SS180951",
     name: "Đàm Ngọc Nguyên Thảo",
-    role: "UI/UX Designer / Creative Director",
+    role: "Historical Content Specialist",
     contributionRate: 100,
     stats: [
-      { label: "Lập trình (Code)", value: 35 },
+      { label: "Research", value: 85 },
       { label: "Thiết kế (Design)", value: 98 },
       { label: "Nội dung lịch sử", value: 70 },
       { label: "Ý tưởng sáng tạo", value: 96 },
@@ -44,7 +44,7 @@ export const membersData = [
     role: "Historical Content Specialist",
     contributionRate: 100,
     stats: [
-      { label: "Lập trình (Code)", value: 15 },
+      { label: "Research", value: 85 },
       { label: "Thiết kế (Design)", value: 45 },
       { label: "Nội dung lịch sử", value: 98 },
       { label: "Ý tưởng sáng tạo", value: 80 },
@@ -59,7 +59,7 @@ export const membersData = [
   {
     id: "SE181573",
     name: "Nguyễn Minh Quang",
-    role: "AI & Backend Architecture Engineer",
+    role: "Developer",
     contributionRate: 100,
     stats: [
       { label: "Lập trình (Code)", value: 95 },
@@ -77,7 +77,7 @@ export const membersData = [
   {
     id: "SE181926",
     name: "Trần Hải Đăng",
-    role: "AI & Backend Architecture Engineer",
+    role: "Developer",
     contributionRate: 100,
     stats: [
       { label: "Lập trình (Code)", value: 95 },
