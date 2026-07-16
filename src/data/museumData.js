@@ -19,7 +19,7 @@ export const museumHalls = [
       { year: "1944", text: "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân tại Cao Bằng." }
     ],
     relics: [
-      { name: "Hội nghị Hương Cảng", desc: "Nơi hợp nhất ba tổ chức cộng sản, khai sinh ra Đảng Cộng sản Việt Nam đầu năm 1930.", img: "https://upload.wikimedia.org/wikipedia/commons/9/99/C%C3%A1c_ch%C3%ADnh_kh%C3%A1ch_Vi%E1%BB%87t_Nam_tham_d%E1%BB%B1_H%E1%BB%99i_ngh%E1%BB%8B_H%C6%B0%C6%A1ng_C%E1%BA%A3ng%2C_ch%E1%BB%A5p_h%C3%ACnh_t%E1%BA%A1i_V%C4%83n_ph%C3%B2ng_B%E1%BA%A3o_%C4%90%E1%BA%A1i.jpg" },
+      { name: "Hội nghị Hương Cảng", desc: "Nơi hợp nhất ba tổ chức cộng sản, khai sinh ra Đảng Cộng sản Việt Nam đầu năm 1930.", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zXbSDFB5AKQ0wWHTxMrsMgxqr-lcFmF-H7NwrvU7Jw&s=10" },
       { name: "Cờ đỏ sao vàng", desc: "Biểu tượng thiêng liêng xuất hiện lần đầu tiên trong Khởi nghĩa Nam Kỳ năm 1940.", img: "https://i.pinimg.com/vwebp/1200x/41/ad/c9/41adc9d30ec273a6520cca8bf73303f9.webp" },
       { name: "Hang Pác Bó", desc: "Nơi Bác Hồ trở về Tổ quốc sau 30 năm bôn ba tìm đường cứu nước, trực tiếp nhóm lên ngọn lửa cách mạng giải phóng dân tộc.", img: "https://i.pinimg.com/736x/b0/27/d4/b027d495d0356a7fc3452fbc7867638d.jpg" },
       { name: "Lán Nà Nưa", desc: "Nơi Bác Hồ ở và làm việc chuẩn bị cho Tổng khởi nghĩa giành chính quyền.", img: "https://file3.qdnd.vn/data/images/0/2025/08/13/upload_1021/lan%20nn1.jpg" }
